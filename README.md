@@ -1,4 +1,4 @@
-# algunos_script
+# Practica con Python
 ----
-algunos script que hice para practicar
+## algunos script que hice para practicar...
 ----
